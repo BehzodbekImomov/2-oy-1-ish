@@ -12,7 +12,7 @@ a{
     text-decoration: none;
 }
 header{
-   
+    background-image: url(/img/Rectangle\ 1.svg);
 }
 .container{
     width: 1400px;
@@ -21,7 +21,7 @@ header{
 }
 .navigation{
     display: flex;
-    background-image: url(/img/Rectangle\ 1.svg);
+   
     padding-top: 53px;
     vertical-align: sub;
 }
@@ -531,10 +531,7 @@ text-transform: capitalize;
 
 color: #FFFFFF;
 }
-.section5-button{
-  
-    /* margin:0 617px 144px 615px ; */
-}
+
 .section5-button a{
     border: 1px solid #FBB034;
     padding: 17px 28px 14px 41px;
@@ -603,9 +600,7 @@ letter-spacing: -0.3px;
 color: #FFFFFF;
 padding: 0 224px 40px 186px;
 }
-.box-footer form{
-  
-}
+
 input{
     background-color: #000000;
    padding: 20px 144px 20px 0 ;
